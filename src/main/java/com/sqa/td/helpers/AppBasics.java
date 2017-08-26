@@ -51,6 +51,17 @@ public class AppBasics
 		return scanner.nextLine();
 	}
 
+	public static void greetUserAndIntroTest(String appName, String testName)
+	{
+		// Greet the user using a system out call
+		System.out.println("Welcome to the " + appName + " Application.");
+		// Ask the user for their name and store in a local scope String
+		// variable
+		System.out.println("\\-------------------------------------------------------------------\\");
+		System.out.println("You are running the following tests for " + testName);
+		System.out.println("\\-------------------------------------------------------------------\\\n");
+	}
+
 	public static boolean requestBoolean(String question)
 	{
 		String input;
