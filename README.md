@@ -1,6 +1,6 @@
-# Automation Project
+# Sub-class Project
 
-*Structure for creating a basic automation test using Selenium.*
+*Structure for creating a basic sub-class test.*
 
 **Java 8**
 
@@ -8,7 +8,6 @@
 * JUnit 4.12
 * Selenium 2.53
 
-Automation Project using Selenium.
 
 [Trung-Hieu Dam](https://github.com/trunghieud)
 
